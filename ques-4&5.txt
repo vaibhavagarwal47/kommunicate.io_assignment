@@ -1,6 +1,7 @@
 Question - 4: Describe the best project you have worked on, including links if any.
 currently, the best project i have worked on is PhotoBlog website made by use of HTML5, CSS3. The interactive UI is developed with flexbox and photoblog is a responsive website.
-
+Link - https://vaibhavagarwal47.github.io/Photo-Blog-Webpage/PhotoBlog.html
 
 Question - 5: If you are to start a software company, name 2 people from your batch whom you will choose as your partner and why?
-I would choose the people having some experience and skills. Rishi Sharma and Devansh Kalkhandey are two skilled friends having good skillset, are enthusiastic and energetic. For a company to grow, I would like to choose the people on whom i can put my faith rather than appointing any unknown person. In my case, Rishi is well versed at technical side and Devansh is good at managerial side. Since I have worked with both of them and I know their strength in their respective domain.
+I would choose the people having some experience and skills. Rishi Sharma and Devansh Kalkhandey are two skilled friends having good skillset, are enthusiastic and energetic.
+For a company to grow, I would like to choose the people on whom i can put my faith rather than appointing any unknown person. In my case, Rishi is well versed at technical side and Devansh is good at managerial side. Since I have worked with both of them and I know their strength in their respective domain.
